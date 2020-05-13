@@ -79,9 +79,3 @@ function wfm_is_favorites($post_id)
     }
     return false;
 }
-
-function wfm_ajax_count()
-{
-    $posts = new WP_Query();
-    var_dump($posts);
-}
