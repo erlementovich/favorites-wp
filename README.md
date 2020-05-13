@@ -2,4 +2,4 @@
 
 Для использования в нужном месте вывести:<br>
   `$content` = `'Здесь может быть любой контент, который необходимо поставить после'`;<br>
-  `<?php echo wfm_favorites_content($content); ?>`.
+  `<?php echo wfm_favorites_content($content); ?>`
